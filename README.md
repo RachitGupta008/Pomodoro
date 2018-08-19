@@ -11,3 +11,7 @@ Write the following in the command line.
 [s] Takes an int value. Needed to set the no of sessions.
 
 <i>Both [t] and[s] is needed for this to work.
+  
+<i> Feel free to tweak it based upon your need.
+  
+# NOTE : Node js should be installed on the system for this to work.
