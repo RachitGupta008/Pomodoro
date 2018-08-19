@@ -7,5 +7,7 @@ Write the following in the command line.
 <code>node app.js [t] [s]
 
 [t] Takes an int value. Needed to set the timer.
+
 [s] Takes an int value. Needed to set the no of sessions.
+
 <i>Both [t] and[s] is needed for this to work.
